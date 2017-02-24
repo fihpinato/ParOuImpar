@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParOuImpar</string>
+    <string name="label_titulo">Crie seu personagem</string>
+    <string name="label_nome">Nome:</string>
+    <string name="hint_nome">Informe o nome do seu persoangem</string>
+    <string name="label_classe">Classe:</string>
+
+    <string name="mago">Mago</string>
+    <string name="guerreiro">Guerreiro</string>
+    <string name="arqueiro">Arqueiro</string>
+    <string name="ladino">Ladino</string>
+    <string name="label_jogar">JOGAR</string>
+    <string name="radio_par">Par</string>
+    <string name="radio_impar">impar</string>
+</resources>
